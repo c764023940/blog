@@ -1,2 +1,5 @@
-# blog
-多人注册可用的博客
+blog
+======
+
+使用 Express + MongoDB 搭建多人博客
+
